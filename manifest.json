@@ -1,10 +1,10 @@
 {
-  "version": "2026.11.19.1",
-  "notes": "GitHub Pages 热更新首包",
-  "builtAt": "2026-11-18T21:07:22.0984339+08:00",
+  "version": "2026.11.22.4",
+  "notes": "虚拟盘增强：多源加权、CSQAQ 领先冲击、Skinport 免登录源、历史回放",
+  "builtAt": "2026-11-22T16:21:09.2373211+08:00",
   "package": {
     "url": "backend.zip",
-    "sha256": "cf8060d3c361c48e1442535a2b5ae806e877c8446daa8d480d7ab2f3b0593e69",
-    "size": 174863
+    "sha256": "45bc0492ef47fa9c7443fcea7fe17716c3cb2b0540d0584c336445b39d04ff92",
+    "size": 201184
   }
 }
